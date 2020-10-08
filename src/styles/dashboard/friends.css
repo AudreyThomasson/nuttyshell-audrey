@@ -1,0 +1,27 @@
+.friendsHeader {
+    margin-left: 10px;
+}
+
+#addFriend {
+    font-size: 2em;
+    font-weight: bold;
+    float: right;
+    position: relative;
+    top: -4.0625rem;
+    right: 0.625rem;
+}
+#addFriend:hover {
+    cursor: pointer;
+}
+.friendContainer {
+    padding: 2em;
+}
+
+#closeAddFriend {
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 8px;
+}
+#closeAddFriend:hover {
+    cursor: pointer;
+}
